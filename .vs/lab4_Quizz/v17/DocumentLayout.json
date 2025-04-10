@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antri\\OneDrive - Politechnika \u015Al\u0105ska\\do_pobrania\\sem4\\progr_ob_i_graf\\lab4_Quizz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F38B0B1-271F-497B-81D0-C5560785F9AD}|lab4_Quizz\\lab4_Quizz.csproj|c:\\users\\antri\\onedrive - politechnika \u015Bl\u0105ska\\do_pobrania\\sem4\\progr_ob_i_graf\\lab4_quizz\\lab4_quizz\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F38B0B1-271F-497B-81D0-C5560785F9AD}|lab4_Quizz\\lab4_Quizz.csproj|solutionrelative:lab4_quizz\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F38B0B1-271F-497B-81D0-C5560785F9AD}|lab4_Quizz\\lab4_Quizz.csproj|c:\\users\\antri\\onedrive - politechnika \u015Bl\u0105ska\\do_pobrania\\sem4\\progr_ob_i_graf\\lab4_quizz\\lab4_quizz\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F38B0B1-271F-497B-81D0-C5560785F9AD}|lab4_Quizz\\lab4_Quizz.csproj|solutionrelative:lab4_quizz\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\antri\\OneDrive - Politechnika \u015Al\u0105ska\\do_pobrania\\sem4\\progr_ob_i_graf\\lab4_Quizz\\lab4_Quizz\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lab4_Quizz\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\antri\\OneDrive - Politechnika \u015Al\u0105ska\\do_pobrania\\sem4\\progr_ob_i_graf\\lab4_Quizz\\lab4_Quizz\\MainWindow.xaml",
+              "RelativeToolTip": "lab4_Quizz\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-10T12:58:40.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\antri\\OneDrive - Politechnika \u015Al\u0105ska\\do_pobrania\\sem4\\progr_ob_i_graf\\lab4_Quizz\\lab4_Quizz\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab4_Quizz\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\antri\\OneDrive - Politechnika \u015Al\u0105ska\\do_pobrania\\sem4\\progr_ob_i_graf\\lab4_Quizz\\lab4_Quizz\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lab4_Quizz\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:58:28.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
